@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spacew0man
+- 👀 I’m interested in autodidacticism and the Feynman Technique.
+- 🌱 I’m currently learning python.
+- 💞️ I’m not looking to collaborate on anything at the moment.
+- 📫 Find me on Discord: @aesadilla#4089
